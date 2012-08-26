@@ -5,7 +5,7 @@ Make Profile Url Like facebook example http:// or https://website.com/username
 
 Installation
 
-* Download LiangLeeFramework 1.1.2
+* Download LiangLeeFramework 1.1.3
 
 * Extract to mod dir
 
